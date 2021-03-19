@@ -5,6 +5,6 @@ import solutions.NumberZooPatrol;
 
 public class Program {
     public static void main(String[] args) {
-        System.out.println(NumberZooPatrol.findMissingNumber(new int[]{}));
+
     }
 }
