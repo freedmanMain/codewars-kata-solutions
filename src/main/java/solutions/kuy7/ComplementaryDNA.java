@@ -16,7 +16,6 @@ public class ComplementaryDNA {
                 builder.append("G");
                 continue;
             }
-
             if (arg.equals("G")) {
                 builder.append("C");
                 continue;
