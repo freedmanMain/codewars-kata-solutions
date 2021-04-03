@@ -1,4 +1,4 @@
-package tests.kuy6tests;
+package solutions.kuy6;
 
 import static org.junit.Assert.assertEquals;
 
@@ -7,7 +7,6 @@ import java.util.concurrent.TimeUnit;
 import org.junit.Rule;
 import org.junit.rules.Timeout;
 import org.junit.Test;
-import solutions.kuy6.NumberZooPatrol;
 
 public class NumberZooPatrolTest {
 
