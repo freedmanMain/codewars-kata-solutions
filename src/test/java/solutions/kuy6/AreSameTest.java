@@ -1,9 +1,8 @@
-package tests.kuy6tests;
+package solutions.kuy6;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
-import solutions.kuy6.AreSame;
 
 public class AreSameTest {
 
