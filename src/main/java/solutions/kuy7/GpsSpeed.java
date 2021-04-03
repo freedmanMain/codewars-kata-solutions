@@ -9,10 +9,6 @@ public class GpsSpeed {
                 max = averageSpeed;
             }
         }
-
-        // Math.max( value1, value2) -> value2
-
-        // Math.max (x[i + 1], x[i]) ->
         return (int) Math.floor(max);
     }
 }
