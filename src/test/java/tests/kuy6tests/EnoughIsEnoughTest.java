@@ -1,9 +1,9 @@
-package tests;
+package tests.kuy6tests;
 
 import static org.junit.Assert.assertArrayEquals;
 
 import org.junit.Test;
-import solutions.EnoughIsEnough;
+import solutions.kuy6.EnoughIsEnough;
 
 public class EnoughIsEnoughTest {
 	@Test

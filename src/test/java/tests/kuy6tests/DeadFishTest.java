@@ -1,9 +1,9 @@
-package tests;
+package tests.kuy6tests;
 
 import static org.junit.Assert.assertArrayEquals;
 
 import org.junit.Test;
-import solutions.DeadFish;
+import solutions.kuy6.DeadFish;
 
 public class DeadFishTest {
 

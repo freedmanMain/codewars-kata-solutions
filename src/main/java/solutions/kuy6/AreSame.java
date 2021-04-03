@@ -1,4 +1,4 @@
-package solutions;
+package solutions.kuy6;
 
 import java.util.Arrays;
 
