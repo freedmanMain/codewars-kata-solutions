@@ -1,7 +1,5 @@
 package solutions.kuy7;
 
-import java.util.Arrays;
-
 public class MaxRotate {
     public static long maxRot(long n) {
         String longNum = String.valueOf(n);
